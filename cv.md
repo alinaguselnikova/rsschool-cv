@@ -47,3 +47,10 @@ function arrayPlusArray(arr1, arr2) {
   return sum1 + sum2;
 }
 ```
+### Education and Courses
+
+- IT Department (Computer Science and System Design) of Novosibirsk State University
+- freeCodeCamp courses (in progress)
+- JavaScript Manual on learnjavascript.ru (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
