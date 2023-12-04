@@ -21,3 +21,29 @@ At the moment I would like to gain more experience in frontend development in or
 - React Intermediate
 - Python, Java, C, C# (Intermediate)
 - Intellij IDEA, Microsoft Visual Studio
+
+### Code Examples
+
+Reversed Strings from CODEWARS: *Complete the solution so that it reverses the string passed into it.*
+```
+'world'  =>  'dlrow'
+'word'   =>  'drow'
+```
+```js
+function solution(str){
+  return str.split("").reverse().join("");
+}
+```
+
+Array plus array: 
+*I'm new to coding and now I want to get the sum of two arrays... Actually the sum of all their elements. I'll appreciate for your help.*
+
+*P.S. Each array includes only integer numbers. Output is a number too.*
+
+```js
+function arrayPlusArray(arr1, arr2) {
+  let sum1 = arr1.reduce((accumulator, currentValue) => accumulator + currentValue);
+  let sum2 = arr2.reduce((accumulator, currentValue) => accumulator + currentValue);
+  return sum1 + sum2;
+}
+```
