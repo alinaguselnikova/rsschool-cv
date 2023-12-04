@@ -54,3 +54,9 @@ function arrayPlusArray(arr1, arr2) {
 - JavaScript Manual on learnjavascript.ru (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
+### Languages
+- English (Upper-Intermediate)
+- Russian (Native)
+- German (Elementary)
+- French (Beginner)
+- Italian (Beginner)
